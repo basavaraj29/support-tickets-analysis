@@ -38,7 +38,7 @@ In the last three cells, the pre-trained model is loaded and executed on test da
 File `classifier.pkl` is where the trained model is stored. `jira.csv` contains anonymised sample data.
 
 ## Results<a name="results"></a>
-The main findings of this study can be found [here](https://medium.com/@basavaraj_42993/a-statistical-overview-of-the-support-tickets-data-at-gcdo-ibm-cb33bdc194f7). The `jira_data_analysis.ipynb` file has cells explaining  
+The main findings of this study can be found [here](https://medium.com/@basavaraj_42993/a-statistical-overview-of-the-support-tickets-data-at-gcdo-ibm-f7ed55bc208e). The `jira_data_analysis.ipynb` file has cells explaining  
 answers/trends for each of the questions above.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
